@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[\$this->fetch('hello',['name'=>'thinkphp']);]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>fetch</tabTrigger>
+	<description>tp5:渲染模板输出</description>
+</snippet>
+		

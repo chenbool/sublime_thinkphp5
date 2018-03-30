@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[limit(10)]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>limit</tabTrigger>
+	<description>tp5:limit</description>
+</snippet>
+		

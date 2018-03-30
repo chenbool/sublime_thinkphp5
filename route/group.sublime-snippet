@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[Route::group('blog',[
+    ':id'   => ['Blog/read', ['method' => 'get'], ['id' => '\d+']],
+    ':name' => ['Blog/read', ['method' => 'post']],
+]);]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Route::group</tabTrigger>
+	<description>tp5:路由分组</description>
+</snippet>

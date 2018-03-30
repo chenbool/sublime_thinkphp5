@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[ 	\$protected  = [
+        'first',
+        'second' =>  ['except'=>'hello'],
+        'three'  =>  ['only'=>'hello,data'],
+    ];]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>beforeActionList</tabTrigger>
+	<description>tp5:前置操作</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[request()->header('user-agent');]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>header</tabTrigger>
+	<description>tp5:HTTP头信息</description>
+</snippet>

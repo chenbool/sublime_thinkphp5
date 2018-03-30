@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[getError()]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>404</tabTrigger>
+	<description>tp5:getError</description>
+</snippet>
+		

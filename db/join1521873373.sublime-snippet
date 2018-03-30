@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[join()]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>join</tabTrigger>
+	<description>tp5:join</description>
+</snippet>
+		

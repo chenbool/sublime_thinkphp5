@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[abort(404,'页面不存在');]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>404</tabTrigger>
+	<description>tp5:404页面</description>
+</snippet>
+		

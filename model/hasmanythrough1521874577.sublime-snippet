@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[return \$this->hasManyThrough('Topic','User');]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>hasManyThrough</tabTrigger>
+	<description>tp5:远程一对多</description>
+</snippet>
+		

@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[alias('a')]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>alias</tabTrigger>
+	<description>tp5:别名</description>
+</snippet>
+		

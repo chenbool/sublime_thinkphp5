@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[lock(true)]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>lock</tabTrigger>
+	<description>tp5:数据库锁机制</description>
+</snippet>
+		

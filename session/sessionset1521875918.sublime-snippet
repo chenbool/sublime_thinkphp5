@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[Session::set('name','thinkphp');]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Session::set</tabTrigger>
+	<description>tp5:设置Session</description>
+</snippet>
+		

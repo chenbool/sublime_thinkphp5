@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[comment('注释')]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>comment</tabTrigger>
+	<description>tp5:comment注释</description>
+</snippet>
+		

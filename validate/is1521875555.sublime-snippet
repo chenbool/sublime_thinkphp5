@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[Validate::is('2016-06-03','date'); ]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>is</tabTrigger>
+	<description>tp5:验证是否有效的日期</description>
+</snippet>
+		

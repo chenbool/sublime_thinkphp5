@@ -1,0 +1,13 @@
+
+<snippet>
+	<content><![CDATA[Db::listen(function($sql, $time, $explain){
+    // 记录SQL
+    echo $sql. ' ['.$time.'s]';
+    // 查看性能分析结果
+    dump($explain);
+});]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>listen</tabTrigger>
+	<description>tp5:监听SQL</description>
+</snippet>
+		

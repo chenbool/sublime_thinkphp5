@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[field()]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>field</tabTrigger>
+	<description>tp5:指定字段</description>
+</snippet>
+		

@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[Cookie::delete('name');]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Cookie::delete</tabTrigger>
+	<description>tp5:删除cookie</description>
+</snippet>
+		

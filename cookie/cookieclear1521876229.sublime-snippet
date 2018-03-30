@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[Cookie::clear();]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Cookie::clear</tabTrigger>
+	<description>tp5:清空cookie</description>
+</snippet>
+		

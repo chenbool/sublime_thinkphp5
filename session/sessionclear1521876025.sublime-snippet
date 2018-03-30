@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[Session::clear();]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Session::clear</tabTrigger>
+	<description>tp5:清除session</description>
+</snippet>
+		

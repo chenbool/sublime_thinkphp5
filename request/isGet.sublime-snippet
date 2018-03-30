@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[request()->isGet();]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>isGet</tabTrigger>
+	<description>tp5:是否Get请求</description>
+</snippet>

@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[Log::notice('警告信息');]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Log::notice</tabTrigger>
+	<description>tp5:警告信息</description>
+</snippet>
+		

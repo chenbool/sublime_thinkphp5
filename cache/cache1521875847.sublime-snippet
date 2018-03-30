@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[cache('name', $value, 3600);]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>cache</tabTrigger>
+	<description>tp5:设置缓存</description>
+</snippet>
+		

@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[trace('错误信息','error');]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>trace</tabTrigger>
+	<description>tp5:错误信息</description>
+</snippet>
+		

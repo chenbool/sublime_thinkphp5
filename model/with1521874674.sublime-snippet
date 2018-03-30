@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[with('profile')]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>with</tabTrigger>
+	<description>tp5:关联预载入</description>
+</snippet>
+		

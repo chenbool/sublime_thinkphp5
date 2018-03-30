@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[Log::clear();]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Log::clear</tabTrigger>
+	<description>tp5:日志清空</description>
+</snippet>
+		

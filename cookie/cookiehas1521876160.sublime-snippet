@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[Cookie::has('name');]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Cookie::has</tabTrigger>
+	<description>tp5:判断cookie是否存在</description>
+</snippet>
+		

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[    public function _initialize()
+    {
+        echo 'init<br/>';
+    }]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>_initialize</tabTrigger>
+	<description>tp5:控制器初始化</description>
+</snippet>

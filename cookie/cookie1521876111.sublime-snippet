@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[cookie('name', 'value', 3600);]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>cookie</tabTrigger>
+	<description>tp5:cookie写入</description>
+</snippet>
+		

@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[Validate::gt(10,8); ]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>gt</tabTrigger>
+	<description>tp5: 验证是否大于某个值</description>
+</snippet>
+		

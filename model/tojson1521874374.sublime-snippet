@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[toJson()]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>toJson</tabTrigger>
+	<description>tp5:JSON序列化</description>
+</snippet>
+		

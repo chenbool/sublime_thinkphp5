@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[\$this->display();]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>display</tabTrigger>
+	<description>tp5:渲染内容输出</description>
+</snippet>
+		

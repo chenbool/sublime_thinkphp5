@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[distinct(true)]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>distinct</tabTrigger>
+	<description>tp5:distinct去重</description>
+</snippet>
+		

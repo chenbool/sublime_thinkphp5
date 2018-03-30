@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Route::domain('114.23.4.5','admin');]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Route::domain</tabTrigger>
+	<description>tp5:域名路由</description>
+</snippet>

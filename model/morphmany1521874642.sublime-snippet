@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[return \$this->morphMany('Comment', 'commentable');]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>morphMany</tabTrigger>
+	<description>tp5:多态一对多关联</description>
+</snippet>
+		

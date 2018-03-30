@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[Log::save();]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Log::save()</tabTrigger>
+	<description>tp5:把保存在内存中的日志信息</description>
+</snippet>
+		

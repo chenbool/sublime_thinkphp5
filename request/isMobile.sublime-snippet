@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[request()->isMobile();]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>isMobile</tabTrigger>
+	<description>tp5:是否Mobile请求</description>
+</snippet>

@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[Db::table('think_user')->fetchSql(true)->find(1)]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>fetchSql</tabTrigger>
+	<description>tp5:返回SQL不执行查询</description>
+</snippet>
+		

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Route::bind('index/blog/read');]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Route::bind</tabTrigger>
+	<description>tp5:路由绑定</description>
+</snippet>

@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[Cache::get('name')]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Cache::get</tabTrigger>
+	<description>tp5:获取缓存</description>
+</snippet>
+		

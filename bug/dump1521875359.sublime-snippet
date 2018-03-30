@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[dump($var, $echo=true, $label=null)]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>dump</tabTrigger>
+	<description>tp5:变量调试</description>
+</snippet>
+		

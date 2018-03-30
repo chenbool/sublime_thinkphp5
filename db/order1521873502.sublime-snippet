@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[order()]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>order</tabTrigger>
+	<description>tp5:order</description>
+</snippet>
+		

@@ -1,0 +1,11 @@
+
+<snippet>
+	<content><![CDATA[Query::event('before_select',function($options,$query){
+	// 事件处理
+    return $result;
+});]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>event</tabTrigger>
+	<description>tp5:注册事件</description>
+</snippet>
+		

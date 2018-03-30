@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[Log::key(Request::instance()->ip());]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Log::key</tabTrigger>
+	<description>tp5:写入授权</description>
+</snippet>
+		

@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[Db::startTrans();]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>startTrans</tabTrigger>
+	<description>tp5:启动事务</description>
+</snippet>
+		

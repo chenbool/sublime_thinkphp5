@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[Validate::in('a',['a','b','c']);]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>in</tabTrigger>
+	<description>tp5:验证是否在某个范围</description>
+</snippet>
+		

@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[strict(false)]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>strict</tabTrigger>
+	<description>tp5:是否严格检查字段</description>
+</snippet>
+		

@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[Cache::inc('name',3);]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Cache::inc</tabTrigger>
+	<description>tp5:缓存自增</description>
+</snippet>
+		

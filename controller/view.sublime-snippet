@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[return view();]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>view</tabTrigger>
+	<description>tp5:渲染模板</description>
+</snippet>

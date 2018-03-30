@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[return \$this->hasMany('Comment');]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>hasMany</tabTrigger>
+	<description>tp5:一对多关联</description>
+</snippet>
+		

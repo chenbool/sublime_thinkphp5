@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Route::any('new/:id','News/read');]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Route::any</tabTrigger>
+	<description>tp5:支持全部请求</description>
+</snippet>

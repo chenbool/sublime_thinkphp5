@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[Session::has('name');]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Session::has</tabTrigger>
+	<description>tp5:判断是否存在</description>
+</snippet>
+		

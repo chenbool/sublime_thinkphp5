@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[union('SELECT name FROM think_user_1')]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>union</tabTrigger>
+	<description>tp5:union联合查询</description>
+</snippet>
+		

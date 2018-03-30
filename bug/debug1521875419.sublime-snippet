@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[debug();]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>debug</tabTrigger>
+	<description>tp5:性能调试</description>
+</snippet>
+		

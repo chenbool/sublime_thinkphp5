@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[Validate::dateFormat('2016-03-09','Y-m-d');]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>dateFormat</tabTrigger>
+	<description>tp5:日期格式验证</description>
+</snippet>
+		

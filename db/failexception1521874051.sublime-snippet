@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[failException()]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>failException</tabTrigger>
+	<description>tp5:是否需要抛出异常</description>
+</snippet>
+		

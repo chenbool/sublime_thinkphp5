@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Route::miss('public/miss');]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Route::miss</tabTrigger>
+	<description>tp5:MISS路由</description>
+</snippet>

@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[getFilename();]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>getFilename</tabTrigger>
+	<description>tp5:获取上传文件名</description>
+</snippet>
+		

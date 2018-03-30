@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[Session::pull('name');]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Session::pull</tabTrigger>
+	<description>tp5:Sessio取值并删除</description>
+</snippet>
+		

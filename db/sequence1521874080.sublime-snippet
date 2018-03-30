@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[sequence('id')]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>sequence</tabTrigger>
+	<description>tp5:指定自增序列名</description>
+</snippet>
+		

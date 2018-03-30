@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[request()->root();]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>root</tabTrigger>
+	<description>tp5:获取URL访问的ROOT地址</description>
+</snippet>

@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[return \$this->belongsToMany('Role');]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>belongsToMany</tabTrigger>
+	<description>tp5:多对多关联</description>
+</snippet>
+		

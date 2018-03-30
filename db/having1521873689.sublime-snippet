@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[having('count(test_time)>3')]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>having</tabTrigger>
+	<description>tp5:having筛选</description>
+</snippet>
+		

@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[return \$this->belongsTo('User');]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>belongsTo</tabTrigger>
+	<description>tp5:定义相对的关联</description>
+</snippet>
+		

@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[Log::log('日志信息');]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Log::log</tabTrigger>
+	<description>tp5:常规日志</description>
+</snippet>
+		

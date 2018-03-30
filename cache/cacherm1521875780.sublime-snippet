@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[Cache::rm('name'); ]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Cache::rm</tabTrigger>
+	<description>tp5:删除缓存</description>
+</snippet>
+		

@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[Log::record('测试日志信息');]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Log::record</tabTrigger>
+	<description>tp5:记录日志信息到内存</description>
+</snippet>
+		
