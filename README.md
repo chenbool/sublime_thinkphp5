@@ -4,7 +4,7 @@
 
 不会安装的可以加群
 
-**vscode用户请搜索tp5安装**
+vscode用户请搜索tp5安装
 
 
 ## qq群：484043598
@@ -24,13 +24,7 @@ thinkphp5:
  
 ## 安装
 
-    1.下载 zip包
-
-    2.解压zip包
-
-    3.sublime  选择首选项 ->浏览插件
-
-    4.然后把解压的目录 拖到插件目录
+      [sublime](https://github.com/chenbool/sublime_thinkphp5/wiki/Sublime%E5%AE%89%E8%A3%85)
 
 
 ## 演示
