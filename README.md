@@ -2,12 +2,12 @@
 
 利用业余时间,后续会追加更多
 
-
 不会安装的可以加群
+---vscode用户请搜索 tp5---
 
-# qq群：484043598
+## qq群：484043598
 
-# 其他插件
+## 其他插件
 
 yaf:
       https://github.com/bool1993/sublime_yaf
@@ -20,7 +20,7 @@ thinkphp5:
      https://github.com/bool1993/sublime_thinkphp5
  
  
-# 安装
+## 安装
 
     1.下载 zip包
 
@@ -31,8 +31,10 @@ thinkphp5:
     4.然后把解压的目录 拖到插件目录
 
 
-# 演示
+## 演示
 
 ![1](./demo.gif)
 
 ![1](./demo2.gif)
+
+
