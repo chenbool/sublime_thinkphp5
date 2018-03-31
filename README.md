@@ -13,7 +13,8 @@ vscode用户请搜索tp5安装
 
 [sublime安装](https://github.com/chenbool/sublime_thinkphp5/wiki/Sublime%E5%AE%89%E8%A3%85)
       
-[vscode安装](https://github.com/chenbool/sublime_thinkphp5/wiki/vscode%E5%AE%89%E8%A3%85)++==
+[vscode安装](https://github.com/chenbool/sublime_thinkphp5/wiki/vscode%E5%AE%89%E8%A3%85)
+
 
 ## 演示
 
