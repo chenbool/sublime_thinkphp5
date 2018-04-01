@@ -1,6 +1,7 @@
 <snippet>
-	<content><![CDATA[\$this->success('新增成功', 'User/list');]]></content>
+	<content><![CDATA[\$this->error('${1:新增失败}');]]></content>
 	<scope>source.php</scope>
-	<tabTrigger>success</tabTrigger>
+	<tabTrigger>error</tabTrigger>
 	<description>tp5:页面跳转</description>
 </snippet>
+
