@@ -1,0 +1,27 @@
+<snippet>
+	<content><![CDATA[return [
+    // 数据库类型
+    'type'            => 'mysql',
+    // 服务器地址
+    'hostname'        => '127.0.0.1',
+    // 数据库名
+    'database'        => 'thinkphp',
+    // 用户名
+    'username'        => 'root',
+    // 密码
+    'password'        => '',
+    // 端口
+    'hostport'        => '',
+    // 连接参数
+    'params'          => [],
+    // 编码
+    'charset'         => 'utf8',
+    // 表前缀
+    'prefix'          => 'think_',
+    // 断线重连
+    'break_reconnect' => true,
+];]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>configdatabase</tabTrigger>
+	<description>ThinkPHP 5.1 数据库配置</description>
+</snippet>

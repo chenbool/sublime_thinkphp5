@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[return [
+    'default_return_type'    => 'json',
+    'default_ajax_return'    => 'json',
+    'default_jsonp_handler' => 'jsonpReturn',
+    'var_jsonp_handler'     => 'callback',
+];]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>configjson</tabTrigger>
+	<description>ThinkPHP 5.1 JSON 配置</description>
+</snippet>

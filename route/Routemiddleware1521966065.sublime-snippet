@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[Route::middleware(function ($request, \Closure $next) {
+    // 中间件逻辑
+    return $next($request);
+});]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Routemiddleware</tabTrigger>
+	<description>路由中间件 (ThinkPHP 5.1)</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[\think\Db::where('id', '>', 0])
+    ->field('id,name,email')
+    ->order('id desc')
+    ->limit(10)
+    ->select();]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Dbwhere</tabTrigger>
+	<description>Db where 查询链 (ThinkPHP 5.1)</description>
+</snippet>

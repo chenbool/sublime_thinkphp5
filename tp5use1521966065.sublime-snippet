@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[use think\facade\Db;
+use think\facade\Cache;
+use think\facade\Log;
+use think\facade\Config;
+use think\facade\Route;
+use think\facade\Cookie;
+use think\facade\Session;
+use think\facade\Validate;]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>tp5use</tabTrigger>
+	<description>ThinkPHP 5.1 常用引入</description>
+</snippet>

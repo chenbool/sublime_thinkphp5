@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[class ${1:Name} extends \think\Controller
+{
+    protected \$middleware = [
+        'Auth' => ['except' => ['index']],
+    ];
+
+    public function index()
+    {
+        return view();
+    }
+}]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>tp5controller</tabTrigger>
+	<description>ThinkPHP 5.1 控制器 (带中间件)</description>
+</snippet>

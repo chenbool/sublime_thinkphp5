@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[public function __construct()
+{
+    parent::__construct();
+    // 初始化
+}]]></content>
+<scope>source.php</scope>
+<tabTrigger>construct</tabTrigger>
+<description>构造函数 (ThinkPHP 5.1)</description>
+</snippet>
