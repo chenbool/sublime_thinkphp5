@@ -76,9 +76,15 @@ Route::get('hello/:name', 'index/hello');
 
 | 项目 | 仓库地址 |
 |------|----------|
-| ThinkPHP5 语法提示 | https://github.com/chenbool/sublime_thinkphp5 |
-| Yaf 语法提示 | https://github.com/chenbool/sublime_yaf |
-| Swoole 语法提示 | https://github.com/chenbool/sublime_swoole |
+| sublime_swoole | https://github.com/chenbool/sublime_swoole |
+| sublime_yaf | https://github.com/chenbool/sublime_yaf |
+| sublime_thinkphp5 | https://github.com/chenbool/sublime_thinkphp5 |
+| sublime_thinkphp6 | https://github.com/chenbool/sublime_thinkphp6 |
+| sublime_thinkphp8 | https://github.com/chenbool/sublime_thinkphp8 |
+| sublime_laravel | https://github.com/chenbool/sublime_laravel |
+| sublime_workerman | https://github.com/chenbool/sublime_workerman |
+| sublime_webman | https://github.com/chenbool/sublime_webman |
+| sublime_fastadmin | https://github.com/chenbool/sublime_fastadmin |
 
 ## 交流群
 
