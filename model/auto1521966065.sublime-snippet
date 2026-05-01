@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[<?php
+
+namespace app\model;
+
+use think\Model;
+
+class ${1:User} extends Model
+{
+    protected \$auto = [];
+    protected \$insert = ['${2:create_time}'];
+    protected \$update = ['${3:update_time}'];
+}]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>tp5auto</tabTrigger>
+	<description>ThinkPHP5 自动时间戳</description>
+</snippet>

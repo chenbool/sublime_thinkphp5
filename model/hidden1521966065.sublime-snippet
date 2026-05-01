@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[<?php
+
+namespace app\model;
+
+use think\Model;
+
+class ${1:User} extends Model
+{
+    protected \$hidden = ['${2:password', '${3:delete_time}'];
+    protected \$visible = ['${4:id', '${5:username', '${6:email}'];
+}]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>tp5hidden</tabTrigger>
+	<description>ThinkPHP5 隐藏字段</description>
+</snippet>
